@@ -21,7 +21,6 @@ This is an `in line code`
 
 ```block code```
 
-```pythton```
 
 
 [icipe](http://www.icipe.org/)
